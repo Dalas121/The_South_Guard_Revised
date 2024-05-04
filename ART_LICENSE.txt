@@ -9,6 +9,7 @@ UNITS
 images/
     mari/ all drawn by nemaara (CC BY-SA 4.0)
     units/mbrin/ all drawn by Lukas (xer) (CC BY-SA 4.0)
+    quintain/ base sprite is a preexisting Wesnoth image; animations by Dalas (CC BY-SA 4.0)
 
 STORY
 ---------------
