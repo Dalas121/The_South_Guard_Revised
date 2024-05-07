@@ -3,6 +3,14 @@ MISC
 arrows
     made by oglsdl (CC0) with modifications by Dalas (CC BY-SA 4.0)
     https://opengameart.org/content/glow-arrow
+exclamation
+    made by donte (CC0) with modifications by Dalas (CC BY-SA 4.0)
+    https://opengameart.org/content/exclamation-quest-icon
+
+HALO
+---------------
+fire-aura
+    made by dalas by modifying pre-existing wesnoth images (GPL v2.0 or later)
 
 UNITS
 ---------------
