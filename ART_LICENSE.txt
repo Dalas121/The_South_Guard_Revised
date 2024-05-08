@@ -14,8 +14,10 @@ fire-aura
 
 UNITS
 ---------------
+
 images/
     mari/ all drawn by nemaara (CC BY-SA 4.0)
+    units/deoran(1/2/3)/ base sprites are preexisting Wesnoth images; franken-head from GbDorn (GPL v2.0 or later) and modifications 0-15-15 by Dalas (GPL v2.0 or later)
     units/mbrin/ all drawn by Lukas (xer) (CC BY-SA 4.0)
     quintain/ base sprite is a preexisting Wesnoth image; animations by Dalas (CC BY-SA 4.0)
 
