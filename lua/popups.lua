@@ -97,10 +97,17 @@ function display_tip(cfg)
 			-------------------------
 			-- BUTTONS
 			-------------------------
-			T.row{ T.column{ T.button{
-				return_value=1, use_markup=true,
-				label=_"Understood",
-			}}},
+			T.row{T.column{ T.grid{ T.row{
+				T.column{ T.button{
+					return_value=1, use_markup=true,
+					label=_"Understood",
+				}},
+				T.column{ T.label{  use_markup=true,  label="<span size='15000'>     </span>"  }},
+				T.column{ T.button{
+					return_value=2, use_markup=true,
+					label=_"Disable Tips",
+				}},
+			}}}},
 		}},
 		T.column{ T.label{  use_markup=true,  label="<span size='40000'> </span>"  }}, 
 	}}
@@ -114,6 +121,7 @@ function display_tip(cfg)
 			T.tooltip{ id="tooltip_large" }, -- mandatory field
 			grid
 		})
+		if (button==2) then wml.variables['enable_tutorial_elements']='no' end
 		return { button=button }
 	end)
 end
