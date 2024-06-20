@@ -105,7 +105,7 @@ function display_tip(cfg)
 				T.column{ T.label{  use_markup=true,  label="<span size='15000'>     </span>"  }},
 				T.column{ T.button{
 					return_value=2, use_markup=true,
-					label=_"Disable Tips",
+					label=_"Disable Tip Popups & Dialogue",
 				}},
 			}}}},
 		}},
