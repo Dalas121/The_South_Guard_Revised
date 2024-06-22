@@ -80,32 +80,31 @@ function display_tip(cfg)
 			-- INFO
 			-------------------------
 			T.row{ T.column{ T.grid{ T.row{
-				T.column{
-					T.image{  label=tutor_image  }
-				},
--- 				T.column{ T.label{  use_markup=true,  label="<span size='40000'> </span>"  }},
-				T.column{ T.label{  use_markup=true,  label="<span size='80000'> </span>"  }},
 				T.column{ 
 					horizontal_alignment="left",
 					T.label{
 						use_markup=true,
 						label=tutor_message,
 					}
-				}
+				},
+				T.column{ T.label{  use_markup=true,  label="<span size='80000'> </span>"  }},
+				T.column{
+					T.image{  label=tutor_image  }
+				},
 			}}}},
 			T.row{ T.column{ T.label{  use_markup=true,  label="<span size='15000'> </span>"  }}}, 
 			-------------------------
 			-- BUTTONS
 			-------------------------
 			T.row{T.column{ T.grid{ T.row{
+				T.column{ T.button{
+					return_value=1, use_markup=true,
+					label=_"Understood",
+				}},
 				T.column{ T.label{  use_markup=true,  label="<span size='15000'>     </span>"  }},
 				T.column{ T.button{
 					return_value=2, use_markup=true,
 					label=_"Disable Tip Popups & Dialogue",
-				}},
-				T.column{ T.button{
-					return_value=1, use_markup=true,
-					label=_"Understood",
 				}},
 			}}}},
 		}},
