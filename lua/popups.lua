@@ -98,14 +98,14 @@ function display_tip(cfg)
 			-- BUTTONS
 			-------------------------
 			T.row{T.column{ T.grid{ T.row{
-				T.column{ T.button{
-					return_value=1, use_markup=true,
-					label=_"Understood",
-				}},
 				T.column{ T.label{  use_markup=true,  label="<span size='15000'>     </span>"  }},
 				T.column{ T.button{
 					return_value=2, use_markup=true,
 					label=_"Disable Tip Popups & Dialogue",
+				}},
+				T.column{ T.button{
+					return_value=1, use_markup=true,
+					label=_"Understood",
 				}},
 			}}}},
 		}},
