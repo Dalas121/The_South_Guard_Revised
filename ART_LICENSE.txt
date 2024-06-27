@@ -11,6 +11,8 @@ HALO
 ---------------
 fire-aura
     made by dalas by modifying pre-existing wesnoth images (GPL v2.0 or later)
+westin-walkway
+    made by dalas by modifying pre-existing wesnoth images (GPL v2.0 or later)
 
 UNITS
 ---------------
