@@ -11,8 +11,9 @@ HALO
 ---------------
 fire-aura
     made by dalas by modifying pre-existing wesnoth images (GPL v2.0 or later)
-westin-walkway
-    made by dalas by modifying pre-existing wesnoth images (GPL v2.0 or later)
+stairway
+    https://opengameart.org/content/temple-entrance
+    by Clint Bellanger with modifications by Dalas (GPL v2.0 or later)
 
 UNITS
 ---------------
