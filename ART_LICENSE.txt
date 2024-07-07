@@ -7,6 +7,11 @@ exclamation
     made by donte (CC0) with modifications by Dalas (CC BY-SA 4.0)
     https://opengameart.org/content/exclamation-quest-icon
 
+ICONS
+---------------
+planb.png
+    from the "Eastern Invasion" wesnoth campaign (CC BY-SA 4.0)
+
 HALO
 ---------------
 fire-aura
