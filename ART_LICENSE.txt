@@ -20,22 +20,28 @@ stairway
     https://opengameart.org/content/temple-entrance
     by Clint Bellanger with modifications by Dalas (GPL v2.0 or later)
 
+PORTRAITS
+---------------
+mari
+    by LordBob with modifications by Dalas (CC BY-SA 4.0)
+    https://forums.wesnoth.org/viewtopic.php?t=30742&start=225
+garard
+    by Dalas from the The Deceiver's Gambit campaign (CC BY-SA 4.0)
+all others
+    from the "The South Guard" mainline campaign (CC BY-SA 4.0)
+
 UNITS
 ---------------
 deoran(1/2/3)
 	base sprites preexisting Wesnoth images; franken-head from GbDorn (GPL v2.0 or later) and modifications by Dalas (GPL v2.0 or later)
 mari
-	from the Soldier of Wesnoth campaign (revansurik), with modifications by Dalas (GPL v2.0 or later)
+    from the Soldier of Wesnoth campaign (revansurik), with modifications by Dalas (GPL v2.0 or later)
 quintain
-	base sprite is a preexisting Wesnoth image; animations by Dalas (CC BY-SA 4.0)
+    base sprite is a preexisting Wesnoth image; animations by Dalas (CC BY-SA 4.0)
 statue-westin
-	made by dalas by modifying pre-existing wesnoth images (GPL v2.0 or later)
-
-
-SOUND
----------------
-wind
-    
+    made by dalas by modifying pre-existing wesnoth images (GPL v2.0 or later)
+asheviere
+    made by Yumi (CC BY-SA 4.0)
 
 STORY
 ---------------
