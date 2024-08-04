@@ -43,6 +43,11 @@ statue-westin
 asheviere
     made by Yumi (CC BY-SA 4.0)
 
+SCENERY
+---------------
+blood1
+    from the Invasion from the Unknown and After The Storm add-ons, with modifications by dalas (GPL v2.0 or later)
+
 STORY
 ---------------
 all made with modifications by dalas from the original images (CC0)
