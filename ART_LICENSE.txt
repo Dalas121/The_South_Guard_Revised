@@ -33,7 +33,7 @@ all others
 UNITS
 ---------------
 deoran(1/2/3)
-	base sprites preexisting Wesnoth images; franken-head from GbDorn (GPL v2.0 or later) and modifications by Dalas (GPL v2.0 or later)
+    base sprites preexisting Wesnoth images; franken-head from GbDorn (GPL v2.0 or later) and modifications by Dalas (GPL v2.0 or later)
 mari
     from the Soldier of Wesnoth campaign (revansurik), with modifications by Dalas (GPL v2.0 or later)
 quintain
@@ -46,7 +46,15 @@ asheviere
 SCENERY
 ---------------
 blood1
+fountain-[01-14].png
     from the Invasion from the Unknown and After The Storm add-ons, with modifications by dalas (GPL v2.0 or later)
+great-tree-smashed
+    from the "Under the Burning Suns" mainline campaign (CC BY-SA 4.0)
+
+SOUNDS
+---------------
+skill-illusion-quiet
+	by RICHERlandTV https://freesound.org/people/RICHERlandTV/sounds/216089/ (CC BY 4.0)
 
 STORY
 ---------------
