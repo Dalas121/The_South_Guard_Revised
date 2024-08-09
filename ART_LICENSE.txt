@@ -57,6 +57,8 @@ stairway
 
 SOUNDS
 ---------------
+rain
+	from the Era of Magic (inferno8), with modifications by dalas (GPL v2.0 or later)
 skill-polymorph-quiet
 	by alanmcki https://freesound.org/people/alanmcki/sounds/461021/ (CC BY 4.0)
 skill-illusion-quiet
@@ -88,3 +90,17 @@ all made with modifications by dalas from the original images (CC0)
 
     awinter1 (David Bartus): https://www.pexels.com/photo/snow-covered-trees-1710352/
     awinter2 (Jacek Mleczek): https://www.pexels.com/photo/snowcapped-trees-801783/
+
+TERRAIN
+---------------
+rain
+	from the Era of Magic (inferno8), with modifications by dalas (GPL v2.0 or later)
+
+
+
+
+
+
+
+
+
