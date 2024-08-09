@@ -29,6 +29,8 @@ all others
 
 UNITS
 ---------------
+aarand
+	base images from the Reign of Lords add-on, with modifications by dalas (GPL v2.0 or later)
 deoran(1/2/3)
     base sprites preexisting Wesnoth images; franken-head from GbDorn (GPL v2.0 or later) and modifications by Dalas (GPL v2.0 or later)
 mari
