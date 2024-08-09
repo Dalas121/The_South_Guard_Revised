@@ -53,6 +53,8 @@ great-tree-smashed
 
 SOUNDS
 ---------------
+skill-polymorph-quiet
+	by alanmcki https://freesound.org/people/alanmcki/sounds/461021/ (CC BY 4.0)
 skill-illusion-quiet
 	by RICHERlandTV https://freesound.org/people/RICHERlandTV/sounds/216089/ (CC BY 4.0)
 
