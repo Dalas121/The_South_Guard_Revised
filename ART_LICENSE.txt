@@ -94,8 +94,10 @@ all made with modifications by dalas from the original images (CC0)
 TERRAIN
 ---------------
 rain
-	from the Era of Magic (inferno8), with modifications by dalas (GPL v2.0 or later)
-
+    from the Era of Magic (inferno8), with modifications by dalas (GPL v2.0 or later)
+snow
+    by Grappe (CC0)
+    https://grappe.itch.io/pixelsnowing
 
 
 
