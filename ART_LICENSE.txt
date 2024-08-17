@@ -11,6 +11,9 @@ ICONS
 ---------------
 planb.png
     from the "Eastern Invasion" wesnoth campaign (CC BY-SA 4.0)
+banner2
+banner3
+    made by dalas by modifying pre-existing wesnoth images (GPL v2.0 or later)
 
 HALO
 ---------------
@@ -57,12 +60,14 @@ stairway
 
 SOUNDS
 ---------------
-rain
-	from the Era of Magic (inferno8), with modifications by dalas (GPL v2.0 or later)
+weather-rain
+    from the Era of Magic (inferno8), with modifications by dalas (GPL v2.0 or later)
+weather-snow
+    by kyles (CC0) https://freesound.org/people/kyles/sounds/637566/
 skill-polymorph-quiet
-	by alanmcki https://freesound.org/people/alanmcki/sounds/461021/ (CC BY 4.0)
+    by alanmcki https://freesound.org/people/alanmcki/sounds/461021/ (CC BY 4.0)
 skill-illusion-quiet
-	by RICHERlandTV https://freesound.org/people/RICHERlandTV/sounds/216089/ (CC BY 4.0)
+    by RICHERlandTV https://freesound.org/people/RICHERlandTV/sounds/216089/ (CC BY 4.0)
 
 STORY
 ---------------

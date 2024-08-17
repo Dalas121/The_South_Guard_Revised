@@ -1,4 +1,4 @@
-local _ = wesnoth.textdomain "wesnoth-h2tt"
+local _ = wesnoth.textdomain "wesnoth-tsg"
 
 -- https://wiki.wesnoth.org/LuaAPI/types/widget
 
@@ -65,17 +65,19 @@ function display_tip(cfg)
 	--###############################
 	-- DEFINE GRID
 	--###############################
-	local grid = T.grid{ T.row{ 
+	local grid = T.grid{ T.row{
 		T.column{ T.label{  use_markup=true,  label="<span size='40000'> </span>"  }}, 
-		T.column{ T.grid{ 
+		T.column{ border="right,left,bottom", border_size=18, T.grid{ 
 			-------------------------
 			-- TITLE
 			-------------------------
+			T.row{ T.column{ T.image{  label="icons/banner3.png"  }}},
+			T.row{ T.column{ T.label{  use_markup=true,  label="<span size='8000'> </span>"  }}},
 			T.row{ T.column{ 
 				horizontal_alignment="center",
 				T.label{  definition="title",  label=_"Tip: "..tutor_title,  }
 			}},
-			T.row{ T.column{ T.label{  use_markup=true,  label="<span size='15000'> </span>"  }}}, 
+			T.row{ T.column{ T.label{  use_markup=true,  label="<span size='15000'> </span>"  }}},
 			-------------------------
 			-- INFO
 			-------------------------
@@ -92,7 +94,9 @@ function display_tip(cfg)
 					T.image{  label=tutor_image  }
 				},
 			}}}},
-			T.row{ T.column{ T.label{  use_markup=true,  label="<span size='15000'> </span>"  }}}, 
+			T.row{ T.column{ T.label{  use_markup=true,  label="<span size='15000'> </span>"  }}},
+			T.row{ T.column {T.image{  label="icons/banner2.png"  }}},
+			T.row{ T.column{ T.label{  use_markup=true,  label="<span size='15000'> </span>"  }}},
 			-------------------------
 			-- BUTTONS
 			-------------------------
@@ -108,7 +112,7 @@ function display_tip(cfg)
 				}},
 			}}}},
 		}},
-		T.column{ T.label{  use_markup=true,  label="<span size='40000'> </span>"  }}, 
+		T.column{ T.label{  use_markup=true,  label="<span size='40000'> </span>"  }},
 	}}
 	
 	--###############################
@@ -116,6 +120,7 @@ function display_tip(cfg)
 	--###############################
 	local result = wesnoth.sync.evaluate_single(function()
 		local button = gui.show_dialog({
+			definition="menu",
 			T.helptip{ id="tooltip_large" }, -- mandatory field
 			T.tooltip{ id="tooltip_large" }, -- mandatory field
 			grid
